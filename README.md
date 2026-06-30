@@ -1,7 +1,6 @@
-# 🛡️ MuleShield AI — Credit Card Fraud Detection Dashboard
+# Credit Card Fraud Detection Dashboard
 
-> **Task 10 · Data Science Dashboard**  
-> IK Gujral Punjab Technical University
+> Data Science Dashboard** 
 
 ---
 
